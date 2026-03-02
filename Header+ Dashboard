@@ -1,0 +1,18 @@
+<body class="bg-gradient-to-br from-slate-50 to-blue-50 min-h-screen">
+<div id="loadingScreen" class="fixed inset-0 bg-gradient-to-br from-blue-600 to-indigo-700 flex items-center justify-center z-50">
+    <div class="text-center text-white">
+        <div class="w-24 h-24 border-4 border-white/30 border-t-white rounded-full animate-spin mx-auto mb-8"></div>
+        <h1 class="text-4xl font-bold mb-4">PowerAlert</h1>
+        <p class="text-xl opacity-90">Loading Load Shedding Data...</p>
+    </div>
+</div>
+<div id="mainApp" class="hidden min-h-screen">
+
+<header class="gradient-bg text-white shadow-2xl sticky top-0 z-40">
+    <div class="container mx-auto px-6 py-6">
+        <div class="flex flex-col lg:flex-row items-center justify-between gap-6">
+            <div class="flex items-center space-x-4">
+                <div class="w-16 h-16 bg-white/20 backdrop-blur-xl rounded-3xl flex items-center justify-center">
+                                   <i class="fas fa-bolt text-3xl"></i>
+                </div>
+                <div>
