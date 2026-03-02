@@ -1,1 +1,1 @@
-# PowerAlert--Load-shedding-prediction-Enerdy-Management
+# PowerAlert--Load-shedding-prediction-Energy-Management
